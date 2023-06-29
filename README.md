@@ -17,9 +17,4 @@ Opa! Eu sou o Luiz Vinícius
     <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 </div>
-<div>
-  <a href="https://www.instagram.com/luizz_vinicius_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-vin%C3%ADcius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
  ![Snake animation](https://github.com/luizzvinicius/luizzvinicius/blob/output/github-contribution-grid-snake.svg)

@@ -17,4 +17,5 @@ Opa! Eu sou o Luiz Vinícius
     <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 </div>
- ![Snake animation](https://github.com/luizzvinicius/luizzvinicius/blob/output/github-contribution-grid-snake.svg)
+ 
+![Snake animation](https://github.com/luizzvinicius/luizzvinicius/blob/output/github-contribution-grid-snake.svg)

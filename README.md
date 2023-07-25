@@ -12,7 +12,7 @@ Opa! Eu sou o Luiz Vinícius
     <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="Firebase" height="30" width="40" src="https://img.icons8.com/?size=512&id=Pv4IGT0TSpt8&format=svg"/>
+    <img align="center" alt="Postgre" height="30" width="40" src="https://img.icons8.com/?size=512&id=Pv4IGT0TSpt8&format=svg"/>
     <img align="center" alt="Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 </div>
  

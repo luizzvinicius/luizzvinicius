@@ -19,4 +19,6 @@
         <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzvinicius&layout=donut&langs_count=7&theme=neon"/>
 </div>
  
-![Snake animation](https://github.com/luizzvinicius/luizzvinicius/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    ![Snake animation](https://github.com/luizzvinicius/luizzvinicius/blob/output/github-contribution-grid-snake.svg)
+</div>

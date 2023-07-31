@@ -1,6 +1,6 @@
 ### <div align="center"> I'm in way to become a full stack developer!</div>
 ### Topics I like:
-* Clean code and optmization
+* Clean code and optimization
 * Software architecture and design patterns
 * Data bases
 

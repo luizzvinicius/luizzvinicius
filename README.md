@@ -14,8 +14,6 @@
 </div> <br>
 <div align="center">
     <a href="https://github.com/luizzvinicius"></a>
-        <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizzvinicius&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+        <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luizzvinicius&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
         <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzvinicius&layout=donut&langs_count=7&theme=neon"/>
 </div>
- 
- ![Snake animation](https://github.com/luizzvinicius/luizzvinicius/blob/output/github-contribution-grid-snake.svg)

@@ -18,3 +18,8 @@
         <img height="190em" src="https://github-readme-stats.vercel.app/api?username=luizzvinicius&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
         <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizzvinicius&layout=donut&langs_count=7&theme=neon"/>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izabella-m/izabella-m/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izabella-m/izabella-m/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/izabella-m/izabella-m/output/github-contribution-grid-snake.svg">
+</picture>

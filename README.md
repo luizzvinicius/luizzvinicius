@@ -1,4 +1,4 @@
-### <div align="center"> I'm in way to become a full stack developer!</div>
+### <div align="center">I'm on the way to become a full stack developer!</div>
 ### Topics I like:
 * Clean code and optimization
 * Software architecture and design patterns

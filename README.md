@@ -16,8 +16,6 @@ Gradutated in System Development by Federal Insitute Of Alagoas (IFAL), currentl
     <img alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
     <img alt="next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img alt="tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-    <img alt="nuxt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
 </div>
 
 ## Databases
